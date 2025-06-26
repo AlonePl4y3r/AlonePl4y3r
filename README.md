@@ -1,6 +1,12 @@
 ## Olá, me chamo Richard! 👋
 
-- 🌱 Atualmente aprendendo linguagem C
+- 🌱 Atualmente aprendendo:
+
+  <div style="display: inline_block"><br>
+
+  <img align="center" alt="Rixa-C" height="50" width="70" src="https://github.com/jmnote/z-icons/blob/master/svg/c.svg">
+
+  </div>
 
 - 📫 como me encontrar?
 
